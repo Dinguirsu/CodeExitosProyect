@@ -1,4 +1,5 @@
 Hello Just run this script in your sql to create the db and once it's created take your connection string and change it in the appsetting.json file in the ShoppingContext section.
+Then in VS you run the app and you can test it in swagger or in postman
 
 USE [ShoppingWebApp]
 GO
